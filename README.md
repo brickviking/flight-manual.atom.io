@@ -1,4 +1,9 @@
-##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+##### Atom and all repositories under Atom were archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/).
+
+The original [atom](https://github.com/atom/atom) repository has been archived and is now in read-only mode. This fork is ·.alive. Sort of.
+
+Further development has continued on with the [Pulsar fork](https://github.com/pulsar-edit/pulsar) of the atom project.
+
  # Atom Flight Manual
 
 This is the Atom book. Everything you need to know in order to use and hack Atom is in this Flight Manual.
