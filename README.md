@@ -1,6 +1,6 @@
 ##### Atom and all repositories under Atom were archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/).
 
-The original [atom](https://github.com/atom/atom) repository has been archived and is now in read-only mode. This fork is ·.alive. Sort of.
+The original [atom](https://github.com/atom/atom) repository has been archived and is now in read-only mode. This fork is…alive. Sort of.
 
 Further development has continued on with the [Pulsar fork](https://github.com/pulsar-edit/pulsar) of the atom project.
 
